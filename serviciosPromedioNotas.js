@@ -1,3 +1,4 @@
+// funcion calcula el promedio
 calcularPromedio = function (nota1, nota2, nota3) {
     let suma;
     let prome;
